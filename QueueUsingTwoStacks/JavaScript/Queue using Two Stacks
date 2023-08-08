@@ -30,4 +30,4 @@ function processData(input) {
 }
 
 // Example usage
-const input = '6\n1 42\n2\n1 14\n3\n1 28\n3';
+const input = '\n1 42\n2\n1 14\n3\n1 28\n3';
