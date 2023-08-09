@@ -2,6 +2,7 @@
 
 function isBalanced(s) {
     let stack = [];
+    // self explanatory but if value is -> ( it'll come out as -> ) hence why if statement inside the for loop works
     const bracketPairs = {
         "(": ")",
         "[": "]",
